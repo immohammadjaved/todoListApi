@@ -1,14 +1,24 @@
 {
   "name": "todoListApi",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "todoList rest API using Node Js, Express and Mongo DB",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/immohammadjaved/todoListApi.git"
+  },
+  "keywords": [
+    "Restful",
+    "Rest API",
+    "Node Js Rest API",
+    "Node Js, Express Rest Api",
+    "Node Js simple Rest API",
+    "Node Js Sample Rest API"
+  ],
+  "author": "Mohammad Javed",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.5"
